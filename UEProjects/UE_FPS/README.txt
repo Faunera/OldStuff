@@ -1,6 +1,6 @@
 
 
-Due to file limit on Github, following files have been removed from the project:
+Due to max file size limit on Github, following files have been removed from the project:
 ------
 	Content\3rdParty\Megascans\3D_Assets\Brown_Bread_whplejz\T_Brown_Bread_whplejz_8K_D.uasset
 	Content\3rdParty\Megascans\3D_Assets\Brown_Bread_whplejz\T_Brown_Bread_whplejz_8K_N.uasset
