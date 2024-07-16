@@ -1,0 +1,10 @@
+BP_SpellBase Splines
+
+- Last Spline point is ignored when generating collision objects
+
+When SetActor3DScale is set to X: 1.0, Y: 1.0, Z: 1.0
+
+	- Highest level for splines is about Z: 40 (When standing up)(When holding hands up high)(Tested on BP_SpellFireBall)
+	- Head level is Z: 40 (When standing up)
+	- Knee level is Z: -100 (When standing up)
+
