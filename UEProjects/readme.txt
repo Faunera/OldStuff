@@ -12,9 +12,12 @@ This project was my first time making anything in Unreal Engine and for VR that 
 
 I learned a lot about how it is like to use UE and how different it is to make games for VR.
 
+Credits:
+--
 Vesa Halonen - Player input, implementing how player launches spells, parts of UI
 Petri Nahkala - AI, spell mechanics
 Rauli Nieminen - Levels, enemy models, level loading
+--
 
 -----
 
@@ -29,9 +32,12 @@ Currently the game is a fps game with no real story ingame in which the player c
 
 The most important thing I learned was, how important communication is for game development.
 
+Credits:
+--
 Vesa Halonen - Programmer - Player code, input, weapon mechanics, powerup mechanics, parts of UI, (designing level layout along with Harri)
 Petri Nahkala - Programmer - AI, powerup mechanics, save system, parts of UI, animations, various ux effects
 Alina Nikkari - Artist - Player/Enemy models/textures, animations
 Harri Tampio - Designer - Build levels
 Jusa Keski-Petäjä - Artist - Gun models/textures, animations
 Olli Ojalainen - Producer - Planning, finding/creating sounds
+--
