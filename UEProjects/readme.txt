@@ -7,7 +7,7 @@ If there are issues, please contact: halonenvema@gmail.com
 Folder: VRUE
 
 School project for VR made in Unreal Engine 5. Device we used for VR was Oculus Rift.
-Goal of the project was to make a serious game, so our goal was to make a game in which player would do various fitness moves to complete different spells.
+Goal of the project was to make a serious game, so we opted to make a game in which player would do various fitness moves to complete different spells. 
 This project was my first time making anything in Unreal Engine and for VR that matter.
 
 I learned a lot about how it is like to use UE and how different it is to make games for VR.
